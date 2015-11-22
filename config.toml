@@ -1,5 +1,5 @@
 # Site settings (baseurl must end with a trailing slash!)
-baseurl = "http://vagabondians.com"
+baseurl = "http://glennhasawebsite.com/Vagabondians/"
 languageCode = "en-us"
 title = "Vagabondians"
 theme = "grid-side"
