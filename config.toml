@@ -92,20 +92,20 @@ SectionPagesMenu = "Main"
         #
         [[Params.Footer.List]]
 
-#            icon_class = "facebook"
-#            icon_link = "http://facebook.com/vagabondians"
+            icon_class = "facebook"
+            icon_link = "http://facebook.com/vagabondians"
 
-        [[Params.Footer.List]]
+#        [[Params.Footer.List]]
 
 #            icon_class = "linkedin"
 #            icon_link = "#!"
 
-        [[Params.Footer.List]]
+#        [[Params.Footer.List]]
 
 #            icon_class = "google-plus"
 #            icon_link = "#!"
 
-        [[Params.Footer.List]]
+#        [[Params.Footer.List]]
 
 #            icon_class = "github"
 #            icon_link = "#!"
