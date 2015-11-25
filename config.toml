@@ -18,6 +18,52 @@ disqusShortname = "vagabondians"
 # The menu name must be "Main"
 SectionPagesMenu = "Main"
 
+[[Menu.Main]]
+    name = "About Us"
+    identifier = "1-about"
+    url = "about/"
+
+[[Menu.Main]]
+    name = "Latest News"
+    identifier = "2-news"
+    url = "categories/news"
+
+[[Menu.Main]]
+    name = "Journeys"
+    identifier = "journeys"
+    url = "#!"
+
+[[Menu.Main]]
+    name = "Six Months in a Popup"
+    identifier = "sixmonths"
+    url = "categories/sixmonths/"
+    parent = "journeys"
+
+[[Menu.Main]]
+    name = "Tales From the Tiki Bar"
+    identifier = "tikibar"
+    url = "categories/tales-from-the-tiki-bar/"
+    parent = "journeys"
+
+[[Menu.Main]]
+    name = "Central America"
+    identifier = "centralamerica"
+    url = "categories/centralamerica/"
+    parent = "journeys"
+
+[[Menu.Main]]
+    name = "Mexico"
+    identifier = "mexico"
+    url = "categories/mexico/"
+    parent = "journeys"
+
+[[Menu.Main]]
+    name = "Other Journeys"
+    identifier = "miscellaneous"
+    url = "categories/miscellaneous/"
+    parent = "journeys"
+
+
 [Params]
     # When set to true, will use infinite scrolling to load paginated content
     # for posts, galleries, and projects
