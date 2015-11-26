@@ -182,7 +182,7 @@ disqusShortname = "vagabondians"
             name = "News"
 
             # The link to associate with the cell, used when clicked
-            link = "/categories/news/"
+            link = "categories/news/"
 
             # The image to use as a background-image for the cell
             image = "/images/luggage.jpg"
@@ -214,34 +214,34 @@ disqusShortname = "vagabondians"
         [[Params.Cells.List]]
 
             name = "Six Months in a Popup"
-            link = "/categories/sixmonths/"
+            link = "categories/sixmonths/"
             image = "/images/sixmonths.jpg"
             always_show_text = true
 
         [[Params.Cells.List]]
 
             name = "Tales From the Tiki Bar"
-            link = "/categories/tales-from-the-tiki-bar/"
+            link = "categories/tales-from-the-tiki-bar/"
             image = "/images/tikibar2.jpg"
             always_show_text = true
 
         [[Params.Cells.List]]
 
             name = "Central America"
-            link = "/categories/centralamerica/"
+            link = "categories/centralamerica/"
             image = "/images/centralamerica.jpg"
             always_show_text = true
 
         [[Params.Cells.List]]
 
             name = "Mexico"
-            link = "/categories/mexico/"
+            link = "categories/mexico/"
             image = "/images/mexico3.jpg"
             always_show_text = true
 
         [[Params.Cells.List]]
 
             name = "Other Trips"
-            link = "/categories/miscellaneous/"
+            link = "categories/miscellaneous/"
             image = "/images/bigbend.jpg"
             always_show_text = true
