@@ -3,7 +3,7 @@ title: What is a Vagabondian?
 date: 2010-07-13
 author: Glenn
 permalink: /what-is-a-vagabondian/
-image:  /images/2010/07/everettruess-1.jpg
+image:  /images/everettruess-1.jpg
 dsq_thread_id:
   - 3171082726
 categories:

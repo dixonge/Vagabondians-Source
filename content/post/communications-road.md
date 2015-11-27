@@ -3,7 +3,7 @@ title: Communications On The Road
 date: 2010-12-16
 author: Glenn
 permalink: /communications-road/
-image:  /images/2010/12/SANY0001.jpg
+image:  /images/SANY0001.jpg
 categories:
   - sixmonths
 tags:

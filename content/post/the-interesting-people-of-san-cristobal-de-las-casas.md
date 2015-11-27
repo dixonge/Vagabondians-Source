@@ -7,13 +7,13 @@ image:  /images/teaser-mexico.jpg
 categories:
   - Mexico
 ---
-<a href="http://vagabondians.com/the-interesting-people-of-san-cristobal-de-las-casas/img_0567/" rel="attachment wp-att-2157"><img class="alignright size-medium wp-image-2157" title="IMG_0567" src="http://vagabondians.com/wp-content/uploads/2012/11/IMG_0567-e1353466003832-225x300.jpg" alt="" width="225" height="300" /></a>There are many reasons I love cities like San Cristobal de las Casas. One major reason is the unique blend of people here. Sure, you can find interesting people anywhere, but some places are magnets. The tourists are interesting enough as it is. Lots of neo-hippies with their long dreads, baggy yoga pants, piercings, tattoos and sandals. Many of them busk with music or silly entertainment acts, or do the street-performer thing. But there are so many of them that, after awhile, they begin to represent a kind of normal. They cease to stand out. But there are others.
+<a href="http://vagabondians.com/the-interesting-people-of-san-cristobal-de-las-casas/img_0567/" rel="attachment wp-att-2157"><img class="alignright size-medium wp-image-2157" title="IMG_0567" src="http://vagabondians.com/wp-content/uploads/2012/11/IMG_0567-e1353466003832.jpg" alt="" width="225" height="300" /></a>There are many reasons I love cities like San Cristobal de las Casas. One major reason is the unique blend of people here. Sure, you can find interesting people anywhere, but some places are magnets. The tourists are interesting enough as it is. Lots of neo-hippies with their long dreads, baggy yoga pants, piercings, tattoos and sandals. Many of them busk with music or silly entertainment acts, or do the street-performer thing. But there are so many of them that, after awhile, they begin to represent a kind of normal. They cease to stand out. But there are others.
 
 Recently I was walking down the sidewalk and was passed by a young Mexican with his pet iguana. It was bright green and connected to a leash and riding on top of his head. That's not something you see every day.
 
 On that same day I passed the Templo Mexicano church near our apartment. In the plaza out front a gentleman was having a fight with a payphone booth, literally. Evidently it had insulted him. He hit it a few times, then picked up the handset and threatened the phone with it. He was yelling incoherently the whole time. He was also wearing nothing but his underwear.
 
-<img class="alignleft size-medium wp-image-2156" style="margin-right: 20px;" title="IMG_0595" src="http://vagabondians.com/wp-content/uploads/2012/11/IMG_0595-e1353466038101-225x300.jpg" alt="" width="225" height="300" />
+<img class="alignleft size-medium wp-image-2156" style="margin-right: 20px;" title="IMG_0595" src="http://vagabondians.com/wp-content/uploads/2012/11/IMG_0595-e1353466038101.jpg" alt="" width="225" height="300" />
 
 Today an interesting person visited the restaurant I was sitting here working in. He is the reason I finally got around to writing this post, which has otherwise been bouncing around in my head. He was wearing the following:
 

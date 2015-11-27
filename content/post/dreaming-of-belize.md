@@ -3,7 +3,7 @@ title: Dreaming of Belize
 date: 2010-06-26
 author: Glenn
 permalink: /dreaming-of-belize/
-image:  /images/2010/06/belize-1.jpg
+image:  /images/belize-1.jpg
 categories:
   - News
 tags:

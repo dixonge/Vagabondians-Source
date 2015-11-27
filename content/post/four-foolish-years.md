@@ -26,7 +26,7 @@ OK, we were already that. But we were selected from almost 2,000 entries! We won
   * A super-cool North Face Surge II backpack
   * An iPad Mini with an official custom oDesk Digital Nomad case!
 
-[<img class="alignnone size-medium wp-image-3630" src="http://vagabondians.com/wp-content/uploads/2014/03/A92P_A7U_hero-257x300.jpg" alt="A92P_A7U_hero" width="257" height="300" />][1] [<img class="alignnone size-medium wp-image-3631" src="http://vagabondians.com/wp-content/uploads/2014/03/ipad-mini-step1-black-2013.png" alt="ipad-mini-step1-black-2013" width="150" height="195" />][2]
+[<img class="alignnone size-medium wp-image-3630" src="http://vagabondians.com/wp-content/uploads/2014/03/A92P_A7U_hero.jpg" alt="A92P_A7U_hero" width="257" height="300" />][1] [<img class="alignnone size-medium wp-image-3631" src="http://vagabondians.com/wp-content/uploads/2014/03/ipad-mini-step1-black-2013.png" alt="ipad-mini-step1-black-2013" width="150" height="195" />][2]
 
 &nbsp;
 

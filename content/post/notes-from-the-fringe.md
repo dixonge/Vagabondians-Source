@@ -3,7 +3,7 @@ title: Notes From the Fringe
 date: 2010-06-23
 author: Glenn
 permalink: /notes-from-the-fringe/
-image:  /images/2010/06/redpill-1.jpg
+image:  /images/redpill-1.jpg
 categories:
   - News
 ---

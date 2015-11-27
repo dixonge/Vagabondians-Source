@@ -7,7 +7,7 @@ image:  /images/teaser-mexico.jpg
 categories:
   - Mexico
 ---
-<img class="size-medium wp-image-2194 alignleft" style="margin-right: 5px; margin-left: 5px; line-height: 14px;" title="Ziiiiiip!" src="http://vagabondians.com/wp-content/uploads/2012/12/IMG_0253-280x300.jpg" alt="" width="280" height="300" />
+<img class="size-medium wp-image-2194 alignleft" style="margin-right: 5px; margin-left: 5px; line-height: 14px;" title="Ziiiiiip!" src="http://vagabondians.com/wp-content/uploads/2012/12/IMG_0253.jpg" alt="" width="280" height="300" />
 
 All the time, early morning, daytime, night, sometimes all night long. There's always a story. This blogger went and dug out this local coming-of-age tale early one morning. Nice read!
 
@@ -21,7 +21,7 @@ All the time, early morning, daytime, night, sometimes all night long. There's a
 
 &nbsp;
 
-<a href="http://vagabondians.com/bombs-bursting-overhead/shhhhhhhhhhh/" rel="attachment wp-att-2192"><img class="size-medium wp-image-2192 alignleft" title="Shhhhhhhhhhh!" src="http://vagabondians.com/wp-content/uploads/2012/12/IMG_0247-300x258.jpg" alt="" width="300" height="258" /></a>
+<a href="http://vagabondians.com/bombs-bursting-overhead/shhhhhhhhhhh/" rel="attachment wp-att-2192"><img class="size-medium wp-image-2192 alignleft" title="Shhhhhhhhhhh!" src="http://vagabondians.com/wp-content/uploads/2012/12/IMG_0247.jpg" alt="" width="300" height="258" /></a>
 
 &nbsp;
 
@@ -35,7 +35,7 @@ All the time, early morning, daytime, night, sometimes all night long. There's a
 </div>
 
 <div style="text-align: right; font-size: small; clear: both;">
-  <a href="http://vagabondians.com/bombs-bursting-overhead/booommmm/" rel="attachment wp-att-2193"><img class="alignleft size-medium wp-image-2193" title="BOOOMMMM!" src="http://vagabondians.com/wp-content/uploads/2012/12/IMG_0249-231x300.jpg" alt="" width="231" height="300" /></a>
+  <a href="http://vagabondians.com/bombs-bursting-overhead/booommmm/" rel="attachment wp-att-2193"><img class="alignleft size-medium wp-image-2193" title="BOOOMMMM!" src="http://vagabondians.com/wp-content/uploads/2012/12/IMG_0249.jpg" alt="" width="231" height="300" /></a>
 </div>
 
 <div style="text-align: right; font-size: small; clear: both;">

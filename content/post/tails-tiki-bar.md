@@ -17,7 +17,7 @@ The wolves were awesome with their amber eyes and musical howls.  The whole pla
 
 Back to the wolves in their large, somewhat sculpted enclosures for each male/female pair (neutered, not breeding pairs!) and two "packs."  Many of their names were changed because they get too many named Dakotas, Cheyennes, etc.  All their animals are captive-bred wolves or wolf-dogs with sad stories of money-grubbing breeders and owners who suddenly discovered their wild animal wasn't suitable for their household. Ya think?!
 
-[<img class="alignnone size-full wp-image-2952" src="http://50.22.11.21/~dixonbui/vagabondians.com/wp-content/uploads/2011/05/Wolf2-540x195.jpg" alt="Wolf2-540x195" width="540" height="195" />][3]
+[<img class="alignnone size-full wp-image-2952" src="http://50.22.11.21/~dixonbui/vagabondians.com/wp-content/uploads/2011/05/Wolf2.jpg" alt="Wolf2-540x195" width="540" height="195" />][3]
 
 When you breed a wolf and a dog, you never know how much wolf will be in each of the several pups.  All in a litter can be totally different.  We learned about wolf vs. dog behaviors and physical build.  It was fascinating. This sanctuary runs totally on voluntary donations of meat, money, and time, and workers live on property.  If you come to NM, be sure to come see the wolves!
 
@@ -29,4 +29,4 @@ Roxi is working on getting a better wine selection for the bar and developing so
 
  [1]: http://www.wildspiritwolfsanctuary.org/index.php
  [2]: http://www.nps.gov/elmo/index.htm
- [3]: http://50.22.11.21/~dixonbui/vagabondians.com/wp-content/uploads/2011/05/Wolf2-540x195.jpg
+ [3]: http://50.22.11.21/~dixonbui/vagabondians.com/wp-content/uploads/2011/05/Wolf2.jpg

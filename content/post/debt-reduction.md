@@ -3,7 +3,7 @@ title: Debt Reduction
 date: 2010-11-13
 author: Glenn
 permalink: /debt-reduction/
-image:  /images/2010/11/debt-1.jpg
+image:  /images/debt-1.jpg
 categories:
   - News
 ---

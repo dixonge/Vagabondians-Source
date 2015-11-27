@@ -24,7 +24,7 @@ We then proceeded through a maze of construction tunnels and underground passage
 </p>
 
 <p style="text-align: left;">
-  <a href="http://vagabondians.com/wp-content/uploads/2013/06/FB_IMG_13725479641120244.jpg"><img class="size-medium wp-image-2495 alignleft" style="margin-left: 5px; margin-right: 5px;" src="http://vagabondians.com/wp-content/uploads/2013/06/FB_IMG_13725479641120244-225x300.jpg" alt="FB_IMG_13725479641120244" width="225" height="300" /></a>
+  <a href="http://vagabondians.com/wp-content/uploads/2013/06/FB_IMG_13725479641120244.jpg"><img class="size-medium wp-image-2495 alignleft" style="margin-left: 5px; margin-right: 5px;" src="http://vagabondians.com/wp-content/uploads/2013/06/FB_IMG_13725479641120244.jpg" alt="FB_IMG_13725479641120244" width="225" height="300" /></a>
 </p>
 
 <p style="text-align: left;">

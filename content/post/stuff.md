@@ -3,7 +3,7 @@ title: Stuff
 date: 2010-07-03
 author: Glenn
 permalink: /stuff/
-image:  /images/2010/07/hoarder-1.jpg
+image:  /images/hoarder-1.jpg
 categories:
   - News
 ---

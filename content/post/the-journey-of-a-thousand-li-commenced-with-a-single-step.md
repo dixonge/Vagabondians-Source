@@ -3,7 +3,7 @@ title: The Journey of a Thousand Li Commenced With a Single Step
 date: 2010-07-11
 author: Glenn
 permalink: /the-journey-of-a-thousand-li-commenced-with-a-single-step/
-image:  /images/2010/07/trail-1.jpg
+image:  /images/trail-1.jpg
 categories:
   - News
 ---

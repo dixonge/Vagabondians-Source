@@ -11,7 +11,7 @@ categories:
 ---
 When the Mombacho Volcano erupted thousands of years ago, it threw huge rocks into Lake Nicaragua forming 365 islets, very large to very small.
 
-[<img class="aligncenter size-medium wp-image-2581" src="http://vagabondians.com/wp-content/uploads/2013/07/isletas-300x168.jpg" alt="isletas" width="300" height="168" />][1]
+[<img class="aligncenter size-medium wp-image-2581" src="http://vagabondians.com/wp-content/uploads/2013/07/isletas.jpg" alt="isletas" width="300" height="168" />][1]
 
 There is a community of about 1200 people living on them, mostly fishermen. Some islands have fabulous houses of the mega wealthy and others have humble cinder block simple dwellings, yet others are simply lush greenery and trees.  Many have hotels and cabanas and houses you can rent or buy.  For a price, a big price.
 

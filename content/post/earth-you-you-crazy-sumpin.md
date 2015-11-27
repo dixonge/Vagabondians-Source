@@ -3,7 +3,7 @@ title: You Crazy or Sumpin???
 date: 2012-01-28
 author: Dixie
 permalink: /earth-you-you-crazy-sumpin/
-image:  /images/FreedomSculpture-538x218.jpg
+image:  /images/FreedomSculpture.jpg
 categories:
   - News
 ---
