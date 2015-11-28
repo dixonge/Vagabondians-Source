@@ -2,10 +2,9 @@
 title = "About us"
 author = "Glenn and Dixie"
 permalink = "/about/"
-image = ""
+image = "https://farm4.staticflickr.com/3713/13370276623_3b170929d1_n.jpg"
 +++
 
-[<img src="https://farm4.staticflickr.com/3713/13370276623_3b170929d1_n.jpg" alt="Cheers to 23!" width="320" height="240" />][1]
 
 Hello!  We're Glenn and Dixie, and we are Vagabondians.  (Yes, I made that word up) A few years ago we looked forward to the second half of our lives and we decided that we didn't want to go the traditional route.  So we took the next exit and began exploring the back roads.  We began leaving things behind (literally) at every stop.  First we jettisoned our debt, then most of our belongings, then our house, then our jobs!  Here's the how and why&#8230;
 
@@ -48,7 +47,7 @@ Clearly this was an unacceptable loss and a game-ender for this strategy. I did 
 
 We still needed extra income in order to retire early, but we did so anyway in [late March of 2011.](http://vagabondians.com/escaping-system/) Our only other alternative to the stock market for generating income was to come up with a business plan. We initially attempted to use this blog as a way to build up followers, otherwise known as readers. The plan was to eventually, somehow, make money by marketing things. We still plan on writing some books, but beyond that our plans weren't too clear.
 
-<a href="https://flic.kr/p/67dLLk"><img src="https://farm4.staticflickr.com/3596/3352174747_dce87e6e41_n.jpg" alt="crazy rv" width="320" height="278" /></a>
+![](https://farm4.staticflickr.com/3596/3352174747_dce87e6e41_n.jpg)
 
 ## Our Crazy Plan
 
@@ -62,5 +61,3 @@ Here's a rough outline of our plan, with updates:
 ## So Here We Go!
 
 We intend to live out our plans here, online. We hope to attract a community of like-minded individuals with whom we can share this journey and provide some value.  Hope you enjoy the ride with us!
-
-[1]: https://flic.kr/p/mnuaqK
